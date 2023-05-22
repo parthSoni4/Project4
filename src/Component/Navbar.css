@@ -1,0 +1,40 @@
+.red-navbar{
+    background-color: rgb(240, 170, 170);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+.navbar-red-ul
+{
+    /* border: 3px solid orange; */
+    display: flex;
+    justify-content: center;
+
+}
+.navbar-red-ul li{
+    /* border: 2px solid pink; */
+    padding: 0.4rem;
+    margin: 0.4rem;
+
+
+}
+.search-box{
+    border: 2px solid grey;
+    border-radius: 14px;
+}
+
+.button-usual{
+    background-color: rgb(245, 93, 93);
+    border-radius: 16px;
+    border: 2px solid rgb(245,93,93);
+    margin: 0.5rem;
+
+}
+.call-number{
+ color: rgb(240, 170, 170);  
+ font-weight: bold; 
+}
